@@ -45,7 +45,7 @@ export default function Home() {
                 <div className="landing-right1">
                < div>
                         <h1>
-                             Day 1.
+                            Lorem ipsum
                         </h1>
                         <p>Let food be thy medicine and medicine be thy food.</p>
                         <p>Food is symbolic of love when words are inadequate.</p>
@@ -62,7 +62,7 @@ export default function Home() {
                 <div className="landing-left2">
                     <div>
                         <h1>
-                        Day 2.
+                        Lorem ipsum
                         </h1>
                         <p>If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.</p>
                         <p>There is no love sincerer than the love of food.</p>
@@ -87,7 +87,7 @@ export default function Home() {
                 <div className="landing-right3">
                < div>
                         <h1>
-                            Day 3.
+                            Lorem ipsum
                         </h1>
                         <p>Food is our common ground, a universal experience.</p>
                         <p>Food may be essential as fuel for the body, but good food is fuel for the soul.</p>
@@ -103,7 +103,7 @@ export default function Home() {
                 <div className="landing-left4">
                     <div>
                         <h1>
-                        Day 4.
+                       Lorem ipsum
                         </h1>
                         <p>Food for us comes from our relatives, whether they have wings or fins or roots.</p>
                            <p> That is how we consider food. Food has a culture. </p>
@@ -122,7 +122,7 @@ export default function Home() {
                  <div className="landing-left5">
                     <div>
                         <h1>
-                        Day 5.
+                       Lorem ipsum
                         </h1>
                         <p>A party without cake is just a meeting.</p>
                         <p>Everything you see I owe to spaghetti.</p>
